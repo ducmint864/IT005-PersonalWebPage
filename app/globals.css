@@ -16,6 +16,14 @@
   }
 }
 
+/* .img-container {
+  img {
+    height: 200%;
+    width: 100%;
+    border-radius: 8px;
+  }
+} */
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
