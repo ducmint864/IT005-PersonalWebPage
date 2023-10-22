@@ -1,6 +1,5 @@
 "use client"
 
-import { Mina } from 'next/font/google';
 import { useState, useEffect } from 'react';
 import { FaCode } from 'react-icons/fa';
 import { Roboto } from 'next/font/google';
