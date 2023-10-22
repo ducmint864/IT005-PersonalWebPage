@@ -134,7 +134,7 @@ export default function Home() {
               <h3 className="font-semibold">| Skillsets acquired/strengthened: Teamwork, Security, Cryptography, Git, Github, Program usecases, Solidity, Design patterns</h3>
             </div>
           </ProjectCard>
-          <ProjectCard _codeSrc="" _imageSrc="/next.png" _title="codefolio" _description="@IT005 Profile Page">
+          <ProjectCard _codeSrc="https://github.com/ducmint864/IT005-PersonalWebPage/tree/static" _imageSrc="/next.png" _title="codefolio" _description="@IT005 Profile Page">
             <div className="flex-column p-4">
               <h1 className="font-semibold">Overview: My Personal Profile Page</h1><br />
               <Image
@@ -192,7 +192,7 @@ export default function Home() {
               <FaFacebook size={30} />
             </a>
             <a
-              href="https://instagram.com/"
+              href="https://www.instagram.com/cereal_killer864/"
               target="_blank"
               rel="noopener noreferrer"
               className="mr-4 text-gray-300 hover:text-white"
