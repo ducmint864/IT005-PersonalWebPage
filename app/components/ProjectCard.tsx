@@ -1,6 +1,6 @@
 "use client"
 
-import { Card, Modal } from '@web3uikit/core';
+import { Card } from '@web3uikit/core';
 import React, { useState } from 'react';
 import ProjectModal from './ProjectModal';
 import Image from 'next/image';

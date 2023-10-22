@@ -3,10 +3,7 @@
 import Image from 'next/image';
 import { FaTwitter, FaGithub, FaEnvelope, FaFacebook, FaInstagram, FaYoutube } from 'react-icons/fa';
 import ProjectCard from './components/ProjectCard'
-import { createContext } from 'react';
 import Link from 'next/link';
-
-export const RefContext = createContext({})
 
 export default function Home() {
   /**

@@ -1,13 +1,8 @@
-"use client";
-
 import { Modal } from '@web3uikit/core';
-import Image from 'next/image';
-import React, { createContext, useState } from 'react';
 
 /**
  * @notice Tell the rest of the page other than the modal to stay blurry
  */
-export const BlurContext = createContext<any>(false);
 
 export default function ProjectModal({ children, _title, _okHandler, _cancelHandler }: {
   _title: string,
